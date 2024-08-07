@@ -1,1 +1,0 @@
-# start-auth-trezor.github.io
